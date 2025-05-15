@@ -17,9 +17,9 @@ Cancellations directly decreasem profitability. Hotels not only come into loss t
 
 ## Data Collection Strategy🔍: Relevant data can be gathered from :
 
-🔸Booking Systems: Survey the reservation information, such as booking duration, room type, meal plans, and costs.
-🔸Clientele Profiles: Base your decision on past behaviors criminal record, drug addiction, and being a regular customer).
-🔸Market Trends: Use seasonal fluctuations and local events that are associated with the cancellation behavior as the driver of the analysis.
+🔸Booking Systems: Survey the reservation information, such as booking duration, room type, meal plans, and costs.  
+🔸Clientele Profiles: Base your decision on past behaviors criminal record, drug addiction, and being a regular customer).  
+🔸Market Trends: Use seasonal fluctuations and local events that are associated with the cancellation behavior as the driver of the analysis.  
 🔸Payment Records: The deposit amounts and payment methods need to be reviewed since there is a very low chance of a booking being canceled if it is prepaid.
 
 ## Machine Learning Formulation:
